@@ -34,7 +34,7 @@ public class Student {
 
 
     public String toString(){
-        return("Student name is " +this.getName() + ", age is : "+this.getAge()+" and address is :"+this.getAddress());
+        return("Student name is -  " +this.getName() + ", age is : "+this.getAge()+" and address is :"+this.getAddress());
     }
 
     public static void main(String[] args) {
